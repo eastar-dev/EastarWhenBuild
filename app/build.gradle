@@ -42,4 +42,6 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
     implementation project(':whenbuild')
+//    implementation 'com.github.eastar-dev:EastarWhenBuild:30770c780e'
+
 }
